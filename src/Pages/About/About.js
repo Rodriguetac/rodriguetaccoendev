@@ -22,15 +22,15 @@ function About() {
       setLanguageDictionary({
         About: "À propos",
         Fast: "Rapide",
-        FastContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        FastContent: "Les deadlines ne me font pas peur, je sais rester à jour sur le travail à fournir",
         Efficient: "Efficace",
-        EfficientContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        EfficientContent: "Je sais être efficace pour répondre à vos besoins",
         Versatile: "Polyvalent",
-        VersatileContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        VersatileContent: "Je suis capable de m'adapter rapidement à vos projets et choix techniques",
         TeamWork: "Travail d'équipe",
-        TeamWorkContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        TeamWorkContent: "Je suis à l'aise avec le travail d'équipe, notamment grâce à la formation Problem-based learning proposé dans mon école",
         Profil: "Profil",
-        ProfilContent: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        ProfilContent: "Je suis un informaticien passionné et motivé ayant de l'expérience autant en développement WEB qu'en programmation de logiciels. Je cherche actuellement un stage du 04/01/2021 au 16/04/2021 durant lequel je pourrai acquérir des compétences et les mettre au service de vos projets.",
         Skill: "Compétences",
       })
     }
@@ -38,30 +38,35 @@ function About() {
       setLanguageDictionary({
         About: "About",
         Fast: "Fast",
-        FastContent: "Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        FastContent: "Deadlines do not scare me, I know how to be up-to-date with workloads",
         Efficient: "Efficient",
-        EfficientContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        EfficientContent: "I will be efficient in order to answer to your needs",
         Versatile: "Versatile",
-        VersatileContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        VersatileContent: "I am able to adapt to your project, and your technical choices",
         TeamWork: "Team Work",
-        TeamWorkContent: "bite Le Lorem Ipsum est simplement du faux texte employé dans en page avant impression.",
+        TeamWorkContent: "I am comfortable with teamwork, I have been specially trained with Problem-based learning",
         Profil: "Profile",
-        ProfilContent: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        ProfilContent: "I am a passionate and motivated professional used to work in a team-based environment. I am looking for an internship from 04/01/2021 to 16/04/2021 in which I could acquire skills and to put them at the service of your projetcs.",
         Skill: "Skills",
       })
     }
   }
 
   const skills = [
-    { type: "C#", level: 100 },
-    { type: "C", level: 75 },
-    { type: 'C++', level: 50 },
+    { type: "C#/.NET", level: 80 },
+    { type: "Xamarin", level: 75 },
+    { type: "SQLServer", level: 75 },
+    { type: "Node.js", level:75 },
+    { type: "Java", level: 70 },
+    { type: "C++", level: 70},
+    { type: "PHP", level: 65 },
+    { type: "React", level: 60 }
   ];
   const colors =
   {
-    bar: 'blue',
+    bar: '#1FB9EE',
     title: {
-      text: 'blue',
+      text: '#1FB9EE',
       background: '#fff'
     }
   };

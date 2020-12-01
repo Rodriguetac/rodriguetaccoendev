@@ -20,13 +20,13 @@ function Base() {
   const setLanguage = () => {
     if (language.currentLanguage == "fr") {
       setLanguageDictionary({
-        Developer: "Développeur",
-        FullStack: "Full-Stack"
+        Developer: "Ingénieur",
+        FullStack: "Développeur"
       })
     }
     else {
       setLanguageDictionary({
-        Developer: "Full-Stack",
+        Developer: "Engineer",
         FullStack: "Developer"
       })
     }
