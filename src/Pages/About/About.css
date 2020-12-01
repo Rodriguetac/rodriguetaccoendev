@@ -1,0 +1,79 @@
+.About {
+    margin: 0% 15% 0% 15%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+  }
+
+  @media(max-width: 1000px){
+    .About{
+      margin: 0 0 0 0;
+    }
+  }
+  
+  .About-header {
+    text-align: center;
+    flex: 1 1 10000px;
+    margin: 5px;
+  }
+
+  .Main-Asset{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex: 1 1 10000px;
+    margin: 5px;
+    flex-direction: row;
+  }
+
+  .HexagonParent{
+    flex: 1 1 500px;
+    margin: 5px;
+    display: flex;
+  }
+
+  .Hexagon1 {
+    flex: 1 1 300px;
+    margin: 5px;
+    text-align: center;
+  }
+
+  .Hexagon1 img{
+    width: 40%;
+    height: auto;
+  }
+
+  @media (max-width : 1030px){
+    .Hexagon1 img{
+      width: 30%;
+      height: auto;
+    }
+  }
+
+  .Content {
+    text-align: center;
+    flex: 1 1 300px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Profil{
+    text-align: center;
+    flex: 1 1 500px;
+    margin: 5px;
+  }
+
+  .Profil p{
+    margin: 0% 10% 0% 10%;
+  }
+
+  .SkillBars{
+    text-align: center;
+    flex: 1 1 500px;
+    margin: 5px;
+  }
