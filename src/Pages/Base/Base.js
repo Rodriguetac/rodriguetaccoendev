@@ -4,7 +4,7 @@ import LanguageContext from '../../languageContext';
 import ReactTextTransition, { presets } from "react-text-transition";
 import Zoom from 'react-reveal/Zoom';
 import Particles from 'react-particles-js';
-import RodriguePhoto from "../../IMG/IMG_0338.JPG";
+import RodriguePhoto from "../../IMG/RodriguePhoto.JPG";
 import France from '../../IMG/France.png';
 import English from '../../IMG/English.png';
 

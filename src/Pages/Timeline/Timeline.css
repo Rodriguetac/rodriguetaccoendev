@@ -1,5 +1,7 @@
 .Base {
     text-align: center;
+    background-color: #dcdcdc;
+    font-size: calc(10px + 2vmin)
   }
   
   .App-logo {

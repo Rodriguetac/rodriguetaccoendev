@@ -46,7 +46,7 @@ function About() {
         TeamWork: "Team Work",
         TeamWorkContent: "I am comfortable with teamwork, I have been specially trained with Problem-based learning",
         Profil: "Profile",
-        ProfilContent: "I am a passionate and motivated professional used to work in a team-based environment. I am looking for an internship from 04/01/2021 to 16/04/2021 in which I could acquire skills and to put them at the service of your projetcs.",
+        ProfilContent: "I am a passionate and motivated professional used to work in a team-based environment. I am looking for an internship from 04/01/2021 to 16/04/2021 in which I could acquire skills and to put them at the service of your projects.",
         Skill: "Skills",
       })
     }

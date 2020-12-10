@@ -1,0 +1,14 @@
+.Contact {
+    background-color: #ffffff;
+    min-height: 100vh;
+    min-width: 1440px;
+    z-index: 0;
+    font-size: calc(10px + 2vmin);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ContactTextBox {
+    align-content: center;
+}

@@ -5,8 +5,9 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import FormControl from '@material-ui/core/FormControl';
 import About from './Pages/About/About';
 import Base from './Pages/Base/Base';
+import Timeline from './Pages/Timeline/Timeline';
+import Contact from './Pages/Contact/Contact';
 import { LanguageProvider } from './languageContext';
-import France from './IMG/France.png';
 
 const InfoContainer = props => {
     // pretend we are fetching these 'things'
@@ -42,6 +43,8 @@ const InfoContainer = props => {
             <LanguageProvider value={{ currentLanguage, switchLanguage }}>
                 <Base />
                 <About />
+                <Timeline />
+                <Contact />
             </LanguageProvider>
         </div>
     )
