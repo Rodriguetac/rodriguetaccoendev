@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/rodriguetaccoendev/static/css/main.147433bb.chunk.css",
-    "main.js": "/rodriguetaccoendev/static/js/main.ed06406e.chunk.js",
-    "main.js.map": "/rodriguetaccoendev/static/js/main.ed06406e.chunk.js.map",
-    "runtime-main.js": "/rodriguetaccoendev/static/js/runtime-main.41cdd4f3.js",
-    "runtime-main.js.map": "/rodriguetaccoendev/static/js/runtime-main.41cdd4f3.js.map",
-    "static/js/2.91acc2f8.chunk.js": "/rodriguetaccoendev/static/js/2.91acc2f8.chunk.js",
-    "static/js/2.91acc2f8.chunk.js.map": "/rodriguetaccoendev/static/js/2.91acc2f8.chunk.js.map",
-    "static/js/3.c451ca7e.chunk.js": "/rodriguetaccoendev/static/js/3.c451ca7e.chunk.js",
-    "static/js/3.c451ca7e.chunk.js.map": "/rodriguetaccoendev/static/js/3.c451ca7e.chunk.js.map",
+    "main.css": "/rodriguetaccoendev/static/css/main.95c473f1.chunk.css",
+    "main.js": "/rodriguetaccoendev/static/js/main.c15b1d52.chunk.js",
+    "main.js.map": "/rodriguetaccoendev/static/js/main.c15b1d52.chunk.js.map",
+    "runtime-main.js": "/rodriguetaccoendev/static/js/runtime-main.e2658fff.js",
+    "runtime-main.js.map": "/rodriguetaccoendev/static/js/runtime-main.e2658fff.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/rodriguetaccoendev/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.1bd780b2.chunk.js": "/rodriguetaccoendev/static/js/2.1bd780b2.chunk.js",
+    "static/js/2.1bd780b2.chunk.js.map": "/rodriguetaccoendev/static/js/2.1bd780b2.chunk.js.map",
+    "static/js/3.d4dbedfc.chunk.js": "/rodriguetaccoendev/static/js/3.d4dbedfc.chunk.js",
+    "static/js/3.d4dbedfc.chunk.js.map": "/rodriguetaccoendev/static/js/3.d4dbedfc.chunk.js.map",
     "index.html": "/rodriguetaccoendev/index.html",
-    "static/css/main.147433bb.chunk.css.map": "/rodriguetaccoendev/static/css/main.147433bb.chunk.css.map",
-    "static/js/2.91acc2f8.chunk.js.LICENSE.txt": "/rodriguetaccoendev/static/js/2.91acc2f8.chunk.js.LICENSE.txt",
+    "static/css/2.2aa38b9c.chunk.css.map": "/rodriguetaccoendev/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.95c473f1.chunk.css.map": "/rodriguetaccoendev/static/css/main.95c473f1.chunk.css.map",
+    "static/js/2.1bd780b2.chunk.js.LICENSE.txt": "/rodriguetaccoendev/static/js/2.1bd780b2.chunk.js.LICENSE.txt",
     "static/media/Ampoule.8422b025.png": "/rodriguetaccoendev/static/media/Ampoule.8422b025.png",
     "static/media/English.f76a53c3.png": "/rodriguetaccoendev/static/media/English.f76a53c3.png",
     "static/media/Fast.06d77fcc.png": "/rodriguetaccoendev/static/media/Fast.06d77fcc.png",
-    "static/media/IMG_0338.6b881278.JPG": "/rodriguetaccoendev/static/media/IMG_0338.6b881278.JPG",
     "static/media/Polyvalent.1f470a63.png": "/rodriguetaccoendev/static/media/Polyvalent.1f470a63.png",
+    "static/media/RodriguePhoto.6b881278.JPG": "/rodriguetaccoendev/static/media/RodriguePhoto.6b881278.JPG",
     "static/media/Teamwork.216aaf0b.png": "/rodriguetaccoendev/static/media/Teamwork.216aaf0b.png",
     "static/media/logo.103b5fa1.svg": "/rodriguetaccoendev/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41cdd4f3.js",
-    "static/js/2.91acc2f8.chunk.js",
-    "static/css/main.147433bb.chunk.css",
-    "static/js/main.ed06406e.chunk.js"
+    "static/js/runtime-main.e2658fff.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.1bd780b2.chunk.js",
+    "static/css/main.95c473f1.chunk.css",
+    "static/js/main.c15b1d52.chunk.js"
   ]
 }
