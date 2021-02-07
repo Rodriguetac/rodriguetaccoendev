@@ -23,7 +23,8 @@ function Timeline() {
         CesiSub: "Méthodologie Problem-based learning, où l'évaluation finale est un projet fait en équipe",
         DateStage2020: "Mars - Juillet 2020",
         Stage2020: "Stage chez Neu Automation",
-        Stage2020Sub: "Projet d'application mobile de gestion de production en Xamarin",
+        Stage2020Sub: "Projet d'Application pour Mobile, ces applications ont été développées pour gérer la production d'Entreprises industrielles",
+        DateWorkNeu2020 : "Août - Septembre 2020",
         LastLine: "En recherche de stage",
       })
     }
@@ -35,7 +36,8 @@ function Timeline() {
         CesiSub: "Engineering school using PBL methodology, where final exams are real projects done in a team",
         DateStage2020: "March - July 2020",
         Stage2020: "Internship at Neu Automation",
-        Stage2020Sub: "Mobile App helping counting the number of washes for the masks made of fabric during the outbreak. The application uses React Native, MongoDB, Expo and NodeJS",
+        Stage2020Sub: "Mobile Applications Project in Xamarin, these applications are used to manage production in industrial Companies",
+        DateWorkNeu2020 : "August - September 2020",
         LastLine: "Looking for an internship",
       })
     }
@@ -83,6 +85,15 @@ function Timeline() {
           <p>
             {languageDictionary.Stage2020Sub}
           </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date={languageDictionary.DateWorkNeu2020}
+          iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+          icon={<DevIcon icon="terminal_badge" style={{ fill: "White" }} />}
+        >
+          <h3 className="vertical-timeline-element-title">{languageDictionary.Stage2020}</h3>
+
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
